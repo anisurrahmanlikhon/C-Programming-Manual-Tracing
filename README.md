@@ -3,5 +3,5 @@ C Programming Manual Tracing is an open-source C coding tutorial recorder and pl
 
 C Programming Manual Tracing is when the programmer interprets the results of each line of code and keeps track by hand of the effect of each statement. This type of code tracing is often faster than using a debugger to step through (trace) the execution of a program.
 
-
+# Programming24 School
 https://programming24.school.blog/
