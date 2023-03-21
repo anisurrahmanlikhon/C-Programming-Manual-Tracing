@@ -7,5 +7,5 @@ C Programming Manual Tracing is an open-source C coding tutorial recorder and pl
 
 
 
-<a href="https://programming24.school.blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/anisurrahmanlikhon/Programming24-School/main/logo.png" height="100%" width="100%" /></a>
+<a href="https://github.com/anisurrahmanlikhon/Programming24-School" target="blank"><img align="center" src="https://raw.githubusercontent.com/anisurrahmanlikhon/Programming24-School/main/logo.png" height="100%" width="100%" /></a>
 
